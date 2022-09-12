@@ -10,8 +10,8 @@ function Header() {
           <h1>DSMeta</h1>
           <p>
             Desenvolvido por
-            <a href="https://www.instagram.com/devsuperior.ig">
-              @devsuperior.ig
+            <a href="https://www.linkedin.com/in/romulo-hip%C3%B3lito-abbiati-73b9b696/?locale=en_US">
+              &nbsp;Romulo Abbiati
             </a>
           </p>
         </div>

@@ -10,63 +10,56 @@ DSMeta is a full stack web and mobile browser built during the **DevSuperior Wee
 This application consists of a sales list of each seller. By clicking the red button, it is possible to send a SMS to let the seller know, for instance, how much was sold by that seller.
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/romuloabbiati/assets/blob/main/mobile.jpg)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1]([https://github.com/acenelio/assets/raw/main/sds1/web1.png](https://github.com/romuloabbiati/assets/blob/main/desktop.jpg))
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
-# Tecnologias utilizadas
+# Technologies used
 ## Back end
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
+- H2 database
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
+- Axios
+## Deploy in production
 - Back end: Heroku
 - Front end web: Netlify
-- Banco de dados: Postgresql
 
-# Como executar o projeto
+# How to run the application
 
 ## Back end
-Pré-requisitos: Java 11
+Pre-requisite: Java 11
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+# clone repository
+git clone https://github.com/romuloabbiati/dsmeta
 
-# entrar na pasta do projeto back end
+# go to project's back end folder
 cd backend
 
-# executar o projeto
+# run the application
 ./mvnw spring-boot:run
 ```
 
 ## Front end web
-Pré-requisitos: npm / yarn
+Pre-requisite: npm / yarn
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+# clone repository
+git clone https://github.com/romuloabbiati/dsmeta
 
-# entrar na pasta do projeto front end web
+# go to project's front end folder
 cd front-web
 
-# instalar dependências
+# install dependencies
 yarn install
 
-# executar o projeto
+# run the application
 yarn start
 ```
 

@@ -13,7 +13,7 @@ This application consists of a sales list of each seller. By clicking the red bu
 ![Mobile 1](https://github.com/romuloabbiati/assets/blob/main/mobile.jpg)
 
 ## Layout web
-![Web 1]([https://github.com/acenelio/assets/raw/main/sds1/web1.png](https://github.com/romuloabbiati/assets/blob/main/desktop.jpg))
+![Web 1](https://github.com/romuloabbiati/assets/blob/main/desktop.jpg)
 
 # Technologies used
 ## Back end

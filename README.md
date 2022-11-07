@@ -9,6 +9,8 @@ DSMeta is a full stack web and mobile browser built during the **DevSuperior Wee
 
 This application consists of a sales list of each seller. By clicking the red button, it is possible to send a SMS to let the seller know, for instance, how much was sold by that seller.
 
+the front-end was built using React and the back-end using Spring.
+
 ## Layout mobile
 ![Mobile 1](https://github.com/romuloabbiati/assets/blob/main/mobile.jpg)
 

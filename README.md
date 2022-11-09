@@ -11,6 +11,15 @@ This application consists of a sales list of each seller. By clicking the red bu
 
 the front-end was built using React and the back-end using Spring.
 
+<h3>Project Status</h3>
+<p align="center"> DSMeta 💻 Under construction... </p>
+
+<h3>Features</h3>
+
+- [x] Front-end<br>
+- [x] Back-end<br>
+- [ ] Persistence (change from Heroku to another cloud DB)<br>
+
 ## Layout mobile
 ![Mobile 1](https://github.com/romuloabbiati/assets/blob/main/mobile.jpg)
 
